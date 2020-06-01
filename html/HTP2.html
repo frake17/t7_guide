@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/nav.css" type="text/css" rel="stylesheet">
+    <link href="../css/text_box.css" type="text/css" rel="stylesheet">
+    <title></title>
+</head>
+<body style="background-image: url(../img/img/htp2.png)">
+    <nav>
+        <ul>
+            <li><a href="welcome.html">Welcome</a></li>
+            <li><a href="intro.html">Introduction</a></li>
+            <li><a href="HTP.html">How to play</a></li>
+            <li><a href="HTP2.html" id="current">How to play 2</a></li>
+            <li><a href="HTP3.html">How to play 3</a></li>
+            <li><a href="HTML4.html">How to play 4</a></li>
+            <li><a href="chara.html">characters</a></li>
+            <li><a href="bib.html">bibliography</a></li>
+            <li style="float: right;"><a href="about.html">About me</a></li>
+        </ul>
+    </nav>
+    <section class="text_box">
+        <h1>Blocking</h1>
+        <p>
+            Side-stepping is a new concept in 3D games, however, if you don't know the reasons why you should side-step the best option would be to just block.
+            <br>There are 3 main types of moves, <b>high/middle/lower attacks</b>, and there are 2 ways of <b>guarding standing and crouching, standing guard blocks
+            high and mids while couching dodges high and throws while blocking lows.</b>
+            However, there are special cases, for example, a crouching jab is mid that won't hit a couching target, many moves like this exist due to the hitbox, some
+            combos of moves may miss.
+        </p>
+        <h1>Wake-up</h1>
+        <p>
+            Once you get knocked down, you have many options to attack or try to create distance between you and the enemy.
+            There are a total of 5 wakeup movement options<b>(instant,delayed,forward roll,backwards roll and side-roll)</b>,
+            and 3 main attack options<b>(low, mid, and a mid that know down on hit, they can be done after a roll to make sure the moves hits).</b>
+            Each option has their uses based on the enemy, it's recommended <b>to not use the same option consistently</b>
+            as they might catch on to it and punish you.
+        </p>
+        <h1>Punishing</h1>
+        <p>
+            Punishing is done when you managed to <b>block a move and strike him back which usually leads to a combo</b>, however, to have the optimized punish require great
+            knowledge about the enemy's character. Although punishing requires good reaction too, usually pro players
+            can "read" their enemy and anticipate their next moves and able to consistently punish them, this comes with the ability to <b>understand the enemy's
+            pattern and able to learn how to deal with it.</b>
+        </p>
+        <div class="button_case">
+            <button id="Back"><b><< Previous</b></button>
+            <button id="Next"><b>Next >></b></button>
+        </div>
+        <script>
+            document.getElementById("Next").onclick = function () {
+                location.href = "HTP3.html";
+            };
+            document.getElementById("Back").onclick = function () {
+                location.href = "HTP.html";
+            };
+        </script>
+    </section>
+</body>
+</html>

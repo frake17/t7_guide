@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/nav.css" type="text/css" rel="stylesheet">
+    <link href="../css/text_box.css" type="text/css" rel="stylesheet">
+    <title></title>
+</head>
+<body style="background-image: url(../img/img/HTP4.png)">
+    <nav>
+        <ul>
+            <li><a href="welcome.html">Welcome</a></li>
+            <li><a href="intro.html">Introduction</a></li>
+            <li><a href="HTP.html">How to play</a></li>
+            <li><a href="HTP2.html">How to play 2</a></li>
+            <li><a href="HTP3.html">How to play 3</a></li>
+            <li><a href="HTP4.html" id="current">How to play 4</a></li>
+            <li><a href="chara.html">characters</a></li>
+            <li><a href="bib.html">bibliography</a></li>
+            <li style="float: right;"><a href="about.html">About me</a></li>
+        </ul>
+    </nav>
+    <section class="text_box">
+        <h1>wallgame</h1>
+        <p>
+            when your enemy is next to a wall, it is possible to extend your combo by doing a wall combo or bouncing them off the wall. If enough damage
+            is done against the wall, it will <b>break and transition to another stage</b> but the enemy will be floated which you can continue your combos for
+            more damage.
+        </p>
+        <h1>knowledge</h1>
+        <p>
+            There's a lot of characters with an average of 100 moves each, it's <b>key</b> to learn match-ups to properly punish blocked moves. Although you are able
+            to win matches early on without much knowledge but in higher levels most players learned their match-ups which instantly put you at a disadvantage.
+            For example in one of lee's combo, if you block the whole string it cannot be punished, you have to test it out in training mode to find out that
+            only if you crouch the last hit then you will be able to punish it. Even characters like Kuma have a weirder hitbox and combos might not work,
+            thus it's beneficial to learn match-ups and how to deal with common moves.
+
+        </p>
+        <h1>mind-games</h1>
+        <p>
+            Mind-games is an <b>advanced concept</b> and will really be important once you reach a higher level of play.
+            <b>Baiting</b> is an example of mind-games, <b>dashing in and out of enemy attack range to try to have the enemy whiff an attack</b>, however people
+            are thought to not randomly press buttons and thus you would have to condition them to be trigger happy, you could dash up and throw often to condition
+            then to jab when you dash in and that's where you can bait moves out of them.
+            Even certain playstyle relay on this concept, Arlash-ash a Pakistan player has a defensive playstyle, all he does is poke to frustrate his enemy, that
+            when they will be riskier and Arlash ash can punish them for taking a risk.
+        </p>
+        <div class="button_case">
+            <button id="Back"><b><< Previous</b></button>
+            <button id="Next"><b>Next >></b></button>
+        </div>
+        <script>
+            document.getElementById("Next").onclick = function () {
+                location.href = "chara.html";
+            };
+            document.getElementById("Back").onclick = function () {
+                location.href = "HTP3.html";
+            };
+        </script>
+    </section>
+</body>
+</html>

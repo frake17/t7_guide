@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/nav.css" type="text/css" rel="stylesheet">
+    <link href="../css/text_box.css" type="text/css" rel="stylesheet">
+    <title></title>
+</head>
+<body style=" overflow: hidden; background-image: url('../img/img/intro_4.png')">
+    <nav>
+        <ul>
+            <li><a href="welcome.html">Welcome</a></li>
+            <li><a href="intro.html"  id="current">Introduction</a></li>
+            <li><a href="HTP.html">How to play</a></li>
+            <li><a href="HTP2.html">How to play 2</a></li>
+            <li><a href="HTP3.html">How to play 3</a></li>
+            <li><a href="HTP4.html">How to play 4</a></li>
+            <li><a href="chara.html">characters</a></li>
+            <li><a href="bib.html">bibliography</a></li>
+            <li style="float: right;"><a href="about.html">About me</a></li>
+        </ul>
+    </nav>
+    <section class="text_box">
+        <h1 style="padding-top: 4%;">Tekken 7</h1>
+        <p>
+            Tekken 7 is a <b>3D fighting game</b>, where you pick a character from a pool of characters and fight other people either online or offline.
+            <br>Let's get to know the control scheme, there's the typical forward, crouch, jump, and backward, to dash or side-step tap the movement key twice,
+            and <b>4 attacks</b>(left and right punch, left and right kick), but is more widely known as 1,2,3 or 4.
+        </p>
+        <h2>Hit propeties</h2>
+        <p>
+            There are some special properties like <b>counter hit, punish</b>, and <b>armor</b>. <br><b>Counter hit</b> is when your attack managed to hit while the enemy is pressing a button, and
+            depending on the moves it may know down or launch for heavy damage. <br><b>Armor moves</b> are moves that cannot be stopped and will power through all attacks, although they still take damage.
+        </p>
+        <h1>2D vs 3D</h1>
+        <p>
+            As you know tekken 7 is a 3D fighting game, which is different from more popular guys like street fighter which is mostly 2d or 2.5d more specifically.<br>
+            Although 2D is more common and popular compared to 3d, both have their key differences and it's entirely based on your prefereances.<br>
+            The main difference is that in 3d games you can <b>move back, forward, and side-step</b>,thus it
+            created an added layer of difficulty which I will dive deeper into later on. <br>Another big difference is the <b>lack of air-game</b>, jumping is gone from the game and with
+            that the skill of doing an anti-air which is a key fundamental in most 2d fighting game.
+        </p>
+        <div class="button_case">
+            <button id="Back"><b><< Previous</b></button>
+            <button id="Next"><b>Next >></b></button>
+        </div>
+        <script>
+            document.getElementById("Next").onclick = function () {
+                location.href = "HTP.html";
+            };
+            document.getElementById("Back").onclick = function () {
+                location.href = "welcome.html";
+            };
+        </script>
+    </section>
+</body>
+</html>

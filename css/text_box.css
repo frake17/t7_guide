@@ -1,0 +1,31 @@
+﻿.text_box {
+    display: block;
+    margin: auto;
+    background: white;
+    width: 70vw;
+    height: 70vh;
+    text-align: center;
+    transform: translateY(8%);
+    opacity: 0.8;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px black;
+    text-overflow: ellipsis;
+    min-width: 1100px;
+    min-height: 700px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Bebas Neue', sans-serif;
+    padding-top: 2%;
+}
+
+p {
+    font-size: 19px;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: 'Bebas Neue', sans-serif;
+}

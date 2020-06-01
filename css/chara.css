@@ -1,0 +1,119 @@
+﻿body {
+    overflow: hidden;
+    background-image: url(../img/img/chara.png)
+}
+
+iframe {
+    z-index: 100000000;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    transform: translateY(25%);
+    margin-left: 3%;
+    align-items: baseline;
+}
+
+.info {
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    opacity: 0.8;
+    width: 80%;
+    margin-left: 20px;
+}
+
+img:hover {
+    transform: scale(1.5);
+}
+
+.josie_intro {
+    display: none;
+    position: absolute;
+    right: 15%;
+    bottom: 25%;
+}
+
+.bryan_intro {
+    display: none;
+    position: absolute;
+    right: 15%;
+    bottom: 25%;
+}
+
+.king_intro {
+    display: none;
+    position: absolute;
+    left: 10%;
+    bottom: 25%;
+}
+
+.hw_intro {
+    display: none;
+    position: absolute;
+    left: 15%;
+    bottom: 25%;
+}
+
+@media only screen and (max-width: 1600px) {
+    .flex {
+        flex-direction: column;
+        transform: translateY(5%);
+    }
+
+    .bryan_intro {
+        display: none;
+        position: relative;
+    }
+
+    .king_intro {
+        display: none;
+        position: relative;
+        left: 0;
+        bottom: 0;
+        transform: translateX(-25%);
+    }
+
+    .hw_intro {
+        display: none;
+        position: relative;
+        left: 0;
+        bottom: 0;
+        transform: translateX(-25%);
+    }
+
+    .josie_intro {
+        display: none;
+        position: relative;
+    }
+
+    .info {
+        width: 30%;
+    }
+
+    #picture-gif {
+        display: flex;
+        flex-direction: row;
+        width: 100vw;
+        justify-content: space-between;
+    }
+
+    body {
+        overflow-y: scroll;
+        background-image: url(img/img/chara_large.png)
+    }
+}
+
+@media only screen and (max-height: 820px) {
+    body {
+        overflow-y: scroll;
+        -ms-overflow-style: none;
+    }
+
+    body::-webkit-scrollbar {
+        width: 0;
+    }
+}

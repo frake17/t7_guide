@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/nav.css" type="text/css" rel="stylesheet">
+    <link href="../css/text_box.css" type="text/css" rel="stylesheet">
+    <title></title>
+</head>
+<body style="background-image: url(../img/img/HTP3.png)">
+    <nav>
+        <ul>
+            <li><a href="welcome.html">Welcome</a></li>
+            <li><a href="intro.html">Introduction</a></li>
+            <li><a href="HTP.html">How to play</a></li>
+            <li><a href="HTP2.html">How to play 2</a></li>
+            <li><a href="HTP3.html" id="current">How to play 3</a></li>
+            <li><a href="HTP4.html">How to play 4</a></li>
+            <li><a href="chara.html">characters</a></li>
+            <li><a href="bib.html">bibliography</a></li>
+            <li style="float: right;"><a href="about.html">About me</a></li>
+        </ul>
+    </nav>
+    <section class="text_box">
+        <h1>Whiff punishing</h1>
+        <p>
+            It's the same concept as punishing but instead of blocking, you are trying to <b>trick your enemy to miss their attacks</b> letting you freely hit him.
+            This can be done using <b>side-step or bashdash</b>, but this require more <b>matchup knowledge and anticipation</b>, however, it would be better as you
+            have a bigger window to punish which usually leads to higher damage.
+        </p>
+        <h1>Throw break</h1>
+        <p>
+            In most fighting game there are throws, but in tekken 7 there are different type of throws that require a certin button break.
+            But the main guideline is if the <b>left or right hand is in front when starting the throw its usually a 1 or 2 break</b>, however if <b>both hand are the same its a 1+2 break.</b>
+            However sometimes its too hard to see if the one of the hand if in front or not, thus you should try breaking it in training mode,
+            for example pual's throw has him lift his leg up which is way easier to react to.
+        </p>
+        <h1>frames</h1>
+        <p>
+            Frames are more of an <b>advanced concept</b>, in every move there is a start-up frame. For example crouch jabs are 10 frames, and since start-up is 10 frames
+            recovery frame is also 10, which means you can't block or attack within 10 frames. But if it hits or gets blocked, it has different properties.
+            If a move is <b>-5 on block</b>, it just means it takes <b>5 more frames to recover</b>, if it's <b>+5 it takes 5 frames lesser to recover</b>.
+            It's important to understand common moves frames, as one of law's moves is a frame trap. That certain move is + on block, people who don't know much
+            about frame data would be tempted to push a button, but since it's + on block law can follow up with any of his moves and counterhit the enemy, and this
+            is the basis of a frame trap, using frame advantage to "trap" unknowing players.
+        </p>
+        <div class="button_case">
+            <button id="Back"><b><< Previous</b></button>
+            <button id="Next"><b>Next >></b></button>
+        </div>
+        <script>
+            document.getElementById("Next").onclick = function () {
+                location.href = "HTP4.html";
+            };
+            document.getElementById("Back").onclick = function () {
+                location.href = "HTP2.html";
+            };
+        </script>
+    </section>
+</body>
+</html>

@@ -1,0 +1,144 @@
+﻿
+#tableA {
+    display: block;
+}
+
+#tableB {
+    display: none;
+}
+
+.toggle {
+    position: relative;
+    display: inline-block;
+    height: 35px;
+    width: 120px;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+input {
+    display: none;
+}
+
+.box {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ca2222;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 30px;
+}
+
+    .box:before {
+        position: absolute;
+        content: "";
+        height: 26px;
+        width: 26px;
+        left: 4px;
+        bottom: 5px;
+        background-color: white;
+        -webkit-transition: .4s;
+        transition: .4s;
+        border-radius: 50%;
+    }
+
+input:checked + .box:before {
+    -webkit-transform: translateX(85px);
+    -ms-transform: translateX(85px);
+    transform: translateX(85px);
+}
+
+input:checked + .box {
+    background: blue;
+}
+
+.right {
+    display: none;
+}
+
+.right, .left {
+    color: white;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    font-family: Verdana, sans-serif;
+}
+
+input:checked + .box .right {
+    display: block;
+}
+
+input:checked + .box .left {
+    display: none;
+}
+
+.text_box {
+    display: block;
+    margin: auto;
+    background: white;
+    width: 70vw;
+    text-align: center;
+    transform: translateY(8%);
+    opacity: 0.8;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px black;
+    text-overflow: ellipsis;
+    overflow: scroll;
+    min-width: 950px;
+}
+
+.text_box::-webkit-scrollbar {
+    width: 0;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+table {
+    font-size: 1.5em;
+    margin: 2%;
+    border-collapse: separate;
+    border: solid black 1px;
+    border-radius: 30px;
+
+}
+
+th {
+    font-family: "Bebas Neue", sans-serif;
+    transform: translateX(2%);
+}
+
+nav {
+    transform: translateY(20%);
+    font-size: 1.15em;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+body::-webkit-scrollbar {
+    width: 0;
+}
+
+body .text_box{ 
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+}
+
+button {
+    transform: translateY(-20%);
+}

@@ -1,0 +1,258 @@
+
+t7 (front page)( all playable characters try to connect them with running atacks and wake-up movements or fade or smt man)
+king(bio)
+eddy
+yoshi/master raven
+devil jin
+
+Bio(vid, opening taunt combo into rage arts and ending)
+king 
+joise
+bryan hawrang
+
+Info for website
+front:
+Welcome to t7
+this guide is for newer players
+Get started(button)
+
+t7:
+Tekken 7 is a 3D fighting game, where you pick a characters from a pool of characters and fight other people either online or offline.
+Lets get to know the controll scheme, theres the typical forward,crouch,jump and backward, to dash or side-step just tap the movement key twice.
+Tekken has 4 attacks(left(1) and right(2) punch, left(3) and right(4) kick), but is more widely known as 1,2,3 or 4.
+There are some speical properties like counter hit, punish and armour moves. Counter hit is when your attack managed to hit while the enemy is pressing a button, and 
+depending on the moves it may knowdown or launch for heavy damage. Armour moves are moves that cannot be stopped and will power through all attacks, although they still take damage.
+The punish word pops up when you succedde in punishing, its really useful to know if a certain combo can be punished by a certain move.
+2d vs 3d
+As you know tekken 7 is a 3d fighting game, which is different from more popular guys like street fighter which is mostly 2d or 2.5d more specifically.
+Although 2d is more comman and popular compared to 3d, but both have their own key diffrences and its entirly based on your preferances.
+The main differences is that in 3d games you can move back, forward, and side-step, while 2d has only forward and backward movement, this
+created a added layer of difficaty which i will dive deeper into later on. Another big difference is the lack of air-game, jumping is basically gone from the game and with
+that the skill of doing a anti-air which is a key fundamentals in most 2d fighting game.
+how to play:
+footsies:
+In street fighter matches, players can be seen spamming projectiles, non-fighting game players may just think its spam. However, there's meaning to every projectile thrown,
+whether if its to frustrate the enemy or controlling the spacing between them. Footsies is exactly that, it is a slang for the ground-based aspect of fighting games and is more strategy-based than execution.
+It is the fundamentals of all fighting games, it's not something you can learn in a day it comes from consistent playing for years to reach the level of pro players. I won't cover every single thing in footsies, 
+but you can refer to the footsies handbook(link), though it is based on a 2d fighter and some may not apply to a 3d fighter.
+life lead:
+Everyone has a set amount of health(170), your goal is to deplete your enemy's health to win the match while keeping yours from dropping to 0.
+Life lead is when your health bar is higher than your enemy's, by having a life lead you will be able to do more risky moves without the risk of
+dying. However, if you don't have a life lead its best if you find out whats your character's best poke and try to inch yourself back to getting
+life lead. However since everyone behaves differently with a life lead or not, this is where practicing would help a lot. There is a limited amount of moves per character learning which moves they are using will allow you to gain the upper hand,
+although it's a long process its a key aspect of fighting games.
+movement(ss):
+Movement is important in all fighting games, it helps you control the match by maximizing the efficiency of your movement and minimizing the efficiency of the opponent's
+The basic movements are forward, backward and side-step, however, there are more advanced movements like forwarding and backward dash, which is useful for whiff punishing. Even more advance movements such as wavedash and Korean backdash are not required to learn, but will
+greatly benefit users who learned it, it is advised to only learn this once you have the fundamentals hammered down.
+Movement doesn't seem hard at first, but every movement or button pressed to have to have a reason, either to have the enemy second guess their moves or to bait, this comes with
+years of practice so don't expect to pick it up in a day.
+
+blocking:
+Although side-stepping is a new concept in 3d games, however, if you don't know the reasons why you should side-step the best option would be to just block.
+In Tekken 7 there are 3 main types of moves, high/middle/lower attacks, and there are 2 ways of guarding standing and crouching, standing guard blocks
+high and mids while couching dodges high and throws while blocking lows.
+However, there are special cases, for example, a crouching jab is mid that won't hit a couching target, many moves like this exist due to the hitbox, some
+combos of moves may miss, thus its recommended to try out the match-up in training mode.
+
+wake-up:
+in Tekken 7 once you get knocked down, you have many options to attack or try to create distance between you and the enemy.
+There are a total of 5 wakeup movement options(instant(jump),delayed(press nothing),forward roll(hold forward),backwards roll(hold backward) and side-roll(1+2)), 
+and 3 main attack options(low(3), mid(4), and a mid that know down on hit(3+4), however, they can be done after a roll to make sure the moves hits).
+Each option has their uses based on who is playing and what they are playing, thou its recommended to not use the same option consistently
+as they might catch on to it and punish you.
+ 	
+whiff punish/punish:
+-punishing
+Punishing is done when you managed to block a move and strike him back which usually leads to a combo, however, to have the optimized punish require great
+knowledge about the enemy's character(will be explained further in frames). Although punishing requires good reaction too, usually pro players
+can "read" their enemy and anticipate their next moves and able to consistently punish them, this comes with the ability to understand the enemy's
+pattern and able to learn how to deal with it.
+just to note not all moves are punishable
+-whiff punishing
+It's the same concept as punishing but instead of blocking, you are trying to trick your enemy to miss their attacks letting you freely hit him.
+This can be done using side-step or bashdash, but this require more matchup knowledge and anticipation, however, it would be better as you 
+have a bigger window to punish which usually leads to higher damage.
+
+throw break
+In most fighting game there are throw, but in tekken 7 there are different type of throws that require a certin button break.
+But the main guideline is if the left or right hand is in front when starting the throw its usually a 1 or 2 break, however if both hand are the same its a 1+2 break.
+However there are expection to charactors like king whose main concept is grabs, and you would have to hop into training mode and try to find out how
+to break his command throws. However sometimes its too hard to see if the one of the hand if in front or not, thus you should try breaking it in training mode,
+for example pual's throw has him lift his leg up which is way easier to react to.
+
+wallgame:
+when your enemy is next to a wall, it is possible to extend your combo by doing a wall combo or bouncing them off the wall. If enough damage
+is done against the wall, it will break and transition to another stage but the enemy will be floated which you can continue your combos for 
+more damage.
+
+knwoledge(lee millon kick)
+There's a lot of characters with an average of 100 moves each, it's key to learn match-ups to properly punish blocked moves. Although you are able
+to win matches early on without much knowledge but in higher levels most players learned their match-ups which instantly put you at a disadvantage.
+For example in one of lee's combo, if you block the whole string it cannot be punished, you have to test it out in training mode to find out that
+only if you crouch the last hit then you will be able to punish it. Even characters like Kuma have a weirder hitbox and combos might not work,
+thus it's beneficial to learn match-ups and how to deal with common moves.
+
+frames
+Frames are more of an advanced concept, in every move there is a start-up frame. For example crouch jabs are 10 frames, and since start-up is 10 frames
+every frame is also 10, which means you can't block or attack within 10 frames. But if it hits or gets blocked, it has different properties.
+If a move is -5 on block, it just means it takes 5 more frames to recover, if it's +5 it takes 5 frames lesser to recover.
+It's important to understand common moves frames, as one of law's moves is a frame trap. That certain move is + on block, people who don't know much
+about frame data would be tempted to push a button, but since it's + on block law can follow up with any of his moves and counterhit the enemy, and this
+is the basis of a frame trap, using frame advantage to "trap" unknowing players.
+
+mind-games(bait,how they react to what,defensive/aggressive style)
+Mind-games is an advanced concept and will really be important once you reach a higher level of play.
+Baiting is an example of mind-games, dashing in and out of enemy attack range to try to have the enemy whiff an attack, however people
+are thought to not randomly press buttons and thus you would have to condition them to be trigger happy, you could dash up and throw often to condition
+then to jab when you dash in and that's where you can bait moves out of them.
+Even certain playstyle relay on this concept, Arlash-ash a Pakistan player has a defensive playstyle, all he does is poke to frustrate his enemy, that
+when they will be riskier and Arlash ash can punish them for taking a risk.
+
+It is in every fighting game, it takes years to reach a high level and being able to understand your enemy's pattern and learn how to combat it in a matter of minutes. For example Daigo, a street fighter player who doesn't train as much as some other common players, however
+what sets him apart is that he is able to easily detect his enemy's pattern and combat against it swiftly, thus he is often called the god of street fighter.
+
+credits:
+https://www.dropbox.com/s/clilt3cbzo59dlb/Understanding%20and%20building%20fundamentals%20in%20Tekken.docx?dl=0
+https://www.reddit.com/r/Tekken/comments/8bxzzh/how_to_learnsharpen_your_fundamentals_in_real/
+https://sonichurricane.com/?page_id=1702 (footsies handbook)
+
+
+
+BIO
+josie(https://tekken.fandom.com/wiki/Josie_Rizal):
+Josie is a new character added in Tekken 7, shes from the Philippines and fighting style is based on eskrima and muay Thai. She is described to be bright, cheerful and energetic but
+is prone to crying due to past trauma.
+Josie is a relatively easy character to pick up since she's new, she has lesser moves compared to rest of the cast. She is more of a pressure-based
+characters which a lot of strings that lead to mix-ups, alongside with really powerful low attacks, she can easily punish people for pushing
+buttons when they are not supposed to. Josie also has really good punish with a 13frame launcher which only 1 other character has, and if done
+right it can lead to heavy damage, alongside most character she has a strong wall game which leads to easy damage. Josie has great counterhit tools
+and whiff punishment with a sway back and feints, not to mention her main stance that absolutely punishes trigger happy people. In the newer season
+she was given a new string, which now allows her to combo into more damage and carries the enemy closer to the wall for more heavy damage.
+pro:
+-strong whiff punish
+-string oriented offense
+-strong counter-hit game
+cons
+-low damage without walls
+-low damage if enemy dont randomly press buttons
+-weak tracking to left
+Recommended for
+-strong poke
+-mix-ups
+-able to punish enemy mistakes
+credit to blah
+if you wan to see top 15 for this and other guys visit orginal website
+(list for commands and stances)
+(top 10 moves)
+(sample combos table)
+-cd2 f+3 f+3 f+3 f+2 3 3
+-df2,f1+2,4,f2 3 4, f2 3 3
+-uf4 f+3,4,f2 3 4, f2 3 3
+-uf3 f+3,4,f2 3 4, f2 3 3
+-ws 2 1, d+3 4 ~ f, 1 3, db 4 2 3
+-d+3 4 4, db 4 2 3
+
+Bryan(https://tekken.fandom.com/wiki/Bryan_Fury)
+Bryan first appeared in Tekken 3, he's from USA and his fighting style is mainly kickboxing. He is a brutish, unfeeling and overall psychotic cyborg, all
+he wants is to create havoc and misery, alongside him iconic evil laugh is what makes him a very popular character among players.
+Bryan has one of the hardest execution in the game, if you mastered his execution you will be set with all the other character's execution. Alongside
+with his hard execution, his gameplan revolves about counter-hitting and punish, which makes him one of the hardest characters to play, having to play
+mind games and opening the enemy up isn't an easy thing.
+Most of his moves launch on counter-hit and can cause huge damage, however his punish before 14 frames are weak, as his 10frame punish is weak and don't
+lead to any combos, only his 14 frame punish is able to lead to combos.
+He does have an infamous "taunt jet upper" it forces your enemy to eat an unblockable taunt before getting hit by a guaranteed launcher, however its
+extremely hard to pull off, you only have about 1 frame(1/25 second) to input the command but its very rewarding if you can pull it off.
+Pro:
+-best space control
+-moves are relative safe
+-strong counter-hit
+-good whiff punish
+-huge combo damage output
+
+cons:
+-weak tracking to left
+-weak punish till 14 frames
+-no much + frames on moves
+Recommended for:
+-well-rounded
+-high diffuclty
+-defense playstyle
+
+combo
+-b1(CH), df2, 2 ,d2 4, b3~f 2 1
+-d1+2, , df2, 2 ,d2 4, b3~f 2 1
+Jet Upper, f+1+2, 2, b+2,4 S! b+3~f+2,1
+-f,f4 , df2, 2 ,d2 4, b3~f 2 1
+-df 3 , fc/df4 , b3~f 2 1
+
+King(https://tekken.fandom.com/wiki/King_II)
+king first appeared in Tekken 3, he's from Mexico and his fighting style is pro-wrestling mainly Mexican pro-wrestling also known as Lucha Libre. He is
+kind and caring as his predecessor was also a pro-wrestler and was the one who brought him up.
+King is a unique character, unlike all the other characters his gameplay is mostly based on throws and grabs. Although all of the throws are breakable by the guidelines,
+it's harder to practice as there are many different throws with different breaks. He has pretty weak lows but makes ups with good 50/50 throws which lead to insane damage,
+however, if the enemy knows how to break throws, king becomes weak as he cant rely on his most powerful aspect, thus king is rarely seen in pro-play
+pros:
+-best throw game
+-strong oki witht throws
+-can rack up damage through throws
+
+cons:
+-poking games is weak
+-weak lows
+-poor whiff punishment
+
+reccomanded for:
+-people who like throws
+-forced 50/50
+-unquine charactors
+
+combo
+-ff1 ff1, df4 3, f1, f2 1
+-3: df3(CH) ws 2 2, WR 24
+-6: b1(CH) 1+2 3, WR 24
+-9: uf4, 1+2 3, WR 24
+-fc df2, df43,df 21, WR 24
+
+
+Hawrang
+Hwoarang first appeared in Tekken 3, he's from South Korea and fighting style is based on taekwondo.
+He is a hot-headed, impulsive person who likes fighting. He's arrogant and bashful and doesn't like to take orders from anyone.
+Hwoarang though may seem very easy, but since he has about 150 moves and various stances witch is a lot, it will take months for you to remember the moves and use them in
+online matches. Alongside with people like Yoshi and lars, if the enemy knows how to guard against all his attacks, it is hard for Hwoarang to try and open
+them up, thus again he is also rarely seen in pro-play. He is a rush-down guy who depends on mix-ups to deal with the damage, and due to that he does not have any
+moves with a huge range like Bryan, he has to find a way to rush in and do his thing.
+To sum it up, he is a pure rush-down guy, he relies on counter-hits to kill beginner players while he has to rely on mix-ups and continue hitting the enemy who knows
+how to guard against him.
+
+pros:
+-insane mix-ups
+-high combo damage
+-get damage in fast
+-safe rage arts
+-amazing power crush
+
+cons:
+-meh punish
+-weak range game
+
+reccomad for:
+-people who like rush-down guys
+-with alots of mix-up	
+-difference stance
+-fast pace gameplay
+
+combo
+-df2, f4, RFS b4, uf 343
+-b3, f4, RFS b4, df34
+-u/b 33, b3f,2,f3,3
+-f n d df 4, 34, RS [34], df 34
+-34, RS [34], uf 343
+
+
+credit:https://docs.google.com/document/d/1yqgxbES6su4clpQou2hzlZN40rpPBtwmMRKWfexbj3g/edit
+credit top 15 moves:https://drunkardshade.com/2017/05/27/tekken-7-top-15-moves-for-all-characters/
+
+
+last page or end of top mnue shit
+about me and a form on the side for feedback and maybe benefits of fighitng games and why you shld give it a try

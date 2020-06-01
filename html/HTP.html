@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/nav.css" type="text/css" rel="stylesheet">
+    <link href="../css/text_box.css" type="text/css" rel="stylesheet">
+    <title></title>
+</head>
+<body style="background-image: url(../img/img/htp_1.png)">
+    <nav>
+        <ul>
+            <li><a href="welcome.html">Welcome</a></li>
+            <li><a href="intro.html">Introduction</a></li>
+            <li><a href="HTP.html" id="current">How to play</a></li>
+            <li><a href="HTP2.html">How to play 2</a></li>
+            <li><a href="HTP3.html">How to play 3</a></li>
+            <li><a href="HTP4.html">How to play 4</a></li>
+            <li><a href="chara.html">characters</a></li>
+            <li><a href="bib.html">bibliography</a></li>
+            <li style="float: right;"><a href="about.html">About me</a></li>
+        </ul>
+    </nav>
+    <section class="text_box">
+        <h1>footsies</h1>
+        <p>
+            In street fighter matches, players can be seen spamming projectiles, non-fighting game players may just think its spam. <br>However, there's meaning to every projectile thrown,
+            whether if its to <b>frustrate the enemy</b> or <b>controlling the spacing between them</b>.<br>Footsies is that, it is the <b>ground-based aspect of fighting games.</b>
+            It is the fundamentals of all fighting games,you can refer to the <a href="https://sonichurricane.com/?page_id=1702">footsies handbook</a> if you want to know more.
+        </p>
+        <h1>life lead</h1>
+        <p>
+            Everyone has a set amount of health(170), your goal is to deplete your enemy's health to win the match while keeping yours from dropping to 0.
+            <br>Life lead is when your health bar is <b>higher</b> than your enemy's, by having a life lead you will be able to <b>do more risky moves without the risk of
+            dying.</b> <br>However, if you don't have a life lead its best if you poke and try to inch yourself back to getting
+            life lead.
+        </p>
+        <h1>movement</h1>
+        <p>
+            Movement is <b>important</b> in all fighting games, it helps you control the match by <b>maximizing the efficiency of your movement and minimizing the efficiency of the opponent's</b>
+            The basic movements are <b>forward, backward and side-step,forwarding and backward dash</b> is useful for whiff punishing.Advance movements such as <b>wavedash and Korean backdash</b> are not required to learn, but will
+            greatly benefit users who learned it, it is advised to only learn this once you have the fundamentals hammered down.
+            Movement doesn't seem hard at first, but every movement nneds to have to have a reason, either to have the enemy <b>second guess their moves or to bait.</b>
+        </p>
+        <div class="button_case">
+            <button id="Back"><b><< Previous</b></button>
+            <button id="Next"><b>Next >></b></button>
+        </div>
+        <script>
+            document.getElementById("Next").onclick = function () {
+                location.href = "HTP2.html";
+            };
+            document.getElementById("Back").onclick = function () {
+                location.href = "intro.html";
+            };
+        </script>
+    </section>
+</body>
+</html>
